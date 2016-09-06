@@ -10,7 +10,7 @@
 
     // Cabeceras adicionales
     $cabeceras .= 'To: Maria <maria@example.com>, Luis <luis@example.com>' . "\r\n"; //direccion de respuesta
-    $cabeceras .= 'From: Recordatorio <administrador@programadorphp.pe>' . "\r\n";
+    $cabeceras .= 'From: Recordatorio <recordatorio@example.com>' . "\r\n";
     $cabeceras .= 'Cc: jose@example.com' . "\r\n"; //con copia
     $cabeceras .= 'Bcc: pedro@example.com' . "\r\n"; // con copia oculta
 
